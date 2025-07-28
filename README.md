@@ -1,7 +1,7 @@
 # Adaptive-Street-Lighting-System
-Project Title: Adaptive Street Lighting System
-Team: Group 14
-Course: 6th Semster-Electronics and Communication 
+- Project Title: Adaptive Street Lighting System
+- Team: Group 14
+- Course: 6th Semster-Electronics and Communication 
 
 # Project Description:
 This system automates streetlights using motion sensors, ambient light, and monitors vehicle speed for road safety. It also integrates ESP32-based video surveillance.
